@@ -1,12 +1,12 @@
 # About me
-![My lovely face.](./pfp.png)
+![My lovely face.](pfp.png)
 
 My name is **Pranav Reddy**.
 I am a student at **UCSD** interested in having fun with friends.
 My programming interests are mainly in numerical things: optimization, numerical linear algebra, PDE, etc.
 C++ is my favorite language, but I think programming language doesn't matter that much; if you know one you know all of them.
 My actual website is [here](https://pranavnreddy.github.io/).
-For a much shorter version of this site, click [here]((./second_page.md)).
+For a much shorter version of this site, click [here](second_page.md).
 
 ## My interests
 
@@ -112,6 +112,6 @@ You can see proof of all the things I need here:
 - [x] Quoting code (Obvious)
 - [x] External Links (first paragraph, link to my website)
 - [x] Section links (see above)
-- [x] Relative links (linked to [second_page.md](./second_page.md))
+- [x] Relative links (linked to [second_page.md](second_page.md))
 - [x] Ordered and Unordered Lists (listed my interests – I even nested lists)
 - [x] Task lists (this thing)
